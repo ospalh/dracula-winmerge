@@ -1,12 +1,15 @@
 # Dracula for [Foobar](https://foobar.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [WinMerge](https://winmerge.org/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+ 1. Open the settings (Bearbeiten/Einstellungen)
+ 1. Back up your current settings just to make sure
+ 1. Load the Dracula.ini file
+ 1. Select the Dracula color scheme
 
 ## Team
 
